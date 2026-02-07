@@ -97,4 +97,4 @@ GitHub: [https://github.com/SaintOfYawn](https://github.com/SaintOfYawn)
 
 ---
 
-⭐ Открыт к предложениям на позицию **Junior Python / Backend / Full-Stack Developer**
+⭐ Открыт к предложениям на позицию **Junior Python / Frontend / Full-Stack Developer**
