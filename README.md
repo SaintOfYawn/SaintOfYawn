@@ -1,19 +1,6 @@
 <h1 align="center">Привет, я Даня 👋</h1>
 
 <p align="center">
-<b>Junior Python / Full‑Stack Developer</b>  
-FastAPI • React • PostgreSQL • Telegram Bots
-</p>
-
-<p align="center">
-Открыт к первой работе, стажировке и коммерческим проектам
-</p>
-
----
-
-<h1 align="center">Привет, я Даня 👋</h1>
-
-<p align="center">
 <b>Junior Python / Backend / Full-Stack Developer</b><br>
 FastAPI • React • PostgreSQL • Docker
 </p>
@@ -111,4 +98,3 @@ GitHub: [https://github.com/SaintOfYawn](https://github.com/SaintOfYawn)
 ---
 
 ⭐ Открыт к предложениям на позицию **Junior Python / Backend / Full-Stack Developer**
-
