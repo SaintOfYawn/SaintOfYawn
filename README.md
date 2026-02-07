@@ -42,7 +42,7 @@ Soon
 ## 📊 GitHub‑статистика
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaintOfYawn&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-swart-iota-40.vercel.app/api?username=SaintOfYawn&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
