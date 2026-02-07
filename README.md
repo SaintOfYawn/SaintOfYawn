@@ -27,12 +27,12 @@ FastAPI • React • PostgreSQL • Docker
 ## 🚀 Технологический стек
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,postgres,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,postgres,docker,git,linux,mysql" />
 </p>
 
 **Backend:** Python, FastAPI, Async SQLAlchemy, REST API, JWT
 **Frontend:** React, JavaScript, HTML, CSS
-**Базы данных:** PostgreSQL, SQL, проектирование схем
+**Базы данных:** PostgreSQL, SQL, MySQL, проектирование схем
 **Инструменты:** Docker, Git, Linux
 **Дополнительно:** Alembic, pytest, GitHub Actions
 
