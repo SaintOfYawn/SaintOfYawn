@@ -20,7 +20,7 @@ FastAPI • React • PostgreSQL • Docker
 • Создаю full-stack проекты (**FastAPI + React**)
 • Пишу асинхронный код и работаю с современным Python-стеком
 
-Сейчас активно развиваюсь как **Backend / Full-Stack Developer** и ищу команду для профессионального роста.
+Сейчас активно развиваюсь как **Frontend / Full-Stack Developer** и ищу команду для профессионального роста.
 
 ---
 
