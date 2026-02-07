@@ -84,7 +84,7 @@ GitHub: [https://github.com/SaintOfYawn/job-board-api](https://github.com/SaintO
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaintOfYawn&theme=tokyonight&v=2" />
+  <img src="https://streak-stats.demolab.com?user=SaintOfYawn&theme=tokyonight&v=2" />
 </p>
 
 ---
