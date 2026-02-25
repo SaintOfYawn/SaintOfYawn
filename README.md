@@ -105,6 +105,10 @@ FastAPI • WebSockets • Redis Pub/Sub • PostgreSQL • React • TypeScript
 - Полноценная full-stack архитектура
 - Docker-развёртывание
 
+GitHub:  
+В процессе разработки
+
+
 ---
 
 ## 📫 Контакты
