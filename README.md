@@ -1,4 +1,4 @@
-# Hi, I'm Danil (Danya) 👋
+# Hi, I'm Danilа (Danya) 👋
 Junior Python Backend Developer
 
 Backend • FastAPI • PostgreSQL • Docker • Redis • React
