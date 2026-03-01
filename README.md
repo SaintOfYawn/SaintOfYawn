@@ -1,28 +1,30 @@
-# Привет, я Даня 👋  
-**Junior Python / Backend / Full-Stack Developer**
+# Hi, I'm Danil (Danya) 👋
+Junior Python Backend Developer
 
-FastAPI • React • TypeScript • Node.js • PostgreSQL • Docker  
+Backend • FastAPI • PostgreSQL • Docker • Redis • React
 
-⭐ Открыт к предложениям — ищу первую работу, стажировку или коммерческие проекты
-
----
-
-## 🧑‍💻 Обо мне
-
-- Разрабатываю backend-сервисы на **Python (FastAPI)**
-- Проектирую REST API и архитектуру приложений
-- Работаю с **PostgreSQL** и проектированием баз данных
-- Создаю **real-time приложения (WebSockets, Redis)**
-- Разрабатываю full-stack проекты (**FastAPI + React + TypeScript**)
-- Пишу асинхронный код и использую современный Python-стек
-- Контейнеризирую приложения с помощью **Docker**
-- Работаю с экосистемой **Node.js** и современными инструментами frontend
-
-Сейчас активно развиваюсь как **Frontend / Full-Stack разработчик** и ищу команду для профессионального роста.
+Open to: Junior positions • Internships • Freelance opportunities
 
 ---
 
-## 🚀 Технологический стек
+## About Me
+
+I'm a Junior Python developer focused on building backend services and full-stack applications.
+
+What I do:
+- Build REST APIs with FastAPI
+- Design databases using PostgreSQL
+- Develop real-time applications (WebSockets + Redis)
+- Create full-stack apps (FastAPI + React + TypeScript)
+- Write asynchronous Python code
+- Containerize applications using Docker
+- Set up CI/CD with GitHub Actions
+
+Currently looking for my first commercial experience and ready to join a team.
+
+---
+
+## Tech Stack
 
 ### Backend
 - Python
@@ -30,8 +32,8 @@ FastAPI • React • TypeScript • Node.js • PostgreSQL • Docker
 - Async SQLAlchemy
 - REST API
 - WebSockets
-- JWT-аутентификация
-- Redis (Pub/Sub, кэш)
+- JWT Authentication
+- Redis
 - Alembic
 - pytest
 
@@ -42,81 +44,68 @@ FastAPI • React • TypeScript • Node.js • PostgreSQL • Docker
 - HTML / CSS
 - Vite
 
-### Node / Frontend tooling
-- Node.js
-- npm
-- Vite
-- WebSocket-клиенты
-
-### Базы данных
+### Databases
 - PostgreSQL
 - MySQL
-- SQL
-- Проектирование схем
 
-### Инструменты и DevOps
+### DevOps / Tools
 - Docker / Docker Compose
-- Git
 - Linux
-- GitHub Actions (CI/CD)
+- Git
+- GitHub Actions
 
 ---
 
-## 📌 Ключевые проекты
+## Key Projects
 
-### 🔹 Job Board API (Mini HeadHunter)
-Backend-сервис для публикации вакансий и откликов.
+### Job Board API
+Backend service for job posting and applications.
 
-**Стек:** FastAPI • Async SQLAlchemy • PostgreSQL • Alembic • Docker  
+**Stack:** FastAPI • PostgreSQL • Async SQLAlchemy • Alembic • Docker
 
-**Функциональность:**
-- JWT-аутентификация (user / company / admin)
-- Компании и профили работодателей
-- CRUD вакансий с ролевым доступом
-- Отклики пользователей без дублей
-- Фильтрация и пагинация
-- Ролевая система доступа
-- Асинхронная архитектура
-- Swagger-документация
-- Docker-развёртывание
-- Миграции Alembic
-- Тесты (pytest)
-- CI через GitHub Actions
+Features:
+- JWT authentication with roles (user / company / admin)
+- CRUD for job vacancies
+- Applications without duplicates
+- Filtering and pagination
+- Async architecture
+- Alembic migrations
+- Tests (pytest)
+- CI/CD
 
 GitHub:  
 https://github.com/SaintOfYawn/job-board-api
 
 ---
 
-### 🔹 Real-Time Chat (Full-Stack)
-Система обмена сообщениями в реальном времени с масштабируемой архитектурой.
+### Real-Time Chat
+Full-stack real-time messaging system.
 
-**Стек:**  
-FastAPI • WebSockets • Redis Pub/Sub • PostgreSQL • React • TypeScript • Vite • Docker
+**Stack:** FastAPI • WebSockets • Redis • PostgreSQL • React • TypeScript • Docker
 
-**Функциональность:**
-- JWT-аутентификация
-- Одно WebSocket-соединение на пользователя
-- Мгновенная отправка и получение сообщений
-- Подписка на несколько чатов
-- История сообщений
-- Статус онлайн / оффлайн
-- Redis для рассылки событий
-- Полноценная full-stack архитектура
-- Docker-развёртывание
+Features:
+- Real-time messaging via WebSockets
+- Redis Pub/Sub
+- JWT authentication
+- Online/offline status
+- Message history
+- Full-stack architecture
 
 GitHub:  
 https://github.com/SaintOfYawn/realtime-chat
 
-
 ---
 
-## 📫 Контакты
+## Contact
 
-Telegram: @fuckYawn  
+Telegram: @your_username  
 Email: ssazonov54@gmail.com  
-GitHub: https://github.com/SaintOfYawn  
+GitHub: https://github.com/SaintOfYawn
 
 ---
 
-⭐ Рассматриваю позиции **Junior Python / Backend / Full-Stack Developer**
+## Goals
+
+- Get first commercial experience
+- Grow as Backend / Full-Stack Developer
+- Work on real production systems
