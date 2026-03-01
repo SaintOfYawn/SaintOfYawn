@@ -106,7 +106,7 @@ FastAPI • WebSockets • Redis Pub/Sub • PostgreSQL • React • TypeScript
 - Docker-развёртывание
 
 GitHub:  
-В процессе разработки
+https://github.com/SaintOfYawn/realtime-chat
 
 
 ---
