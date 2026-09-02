@@ -98,7 +98,7 @@ https://github.com/SaintOfYawn/realtime-chat
 
 ## Contact
 
-Telegram: @saintofyawn  
+Telegram: @oxsoh
 Email: ssazonov54@gmail.com  
 GitHub: https://github.com/SaintOfYawn
 
