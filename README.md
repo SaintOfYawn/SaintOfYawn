@@ -1,5 +1,5 @@
 # Hi, I'm Danilа (Danya) 👋
-Junior Python Backend Developer
+Junior Full-Stack Developer
 
 Backend • FastAPI • PostgreSQL • Docker • Redis • React
 
@@ -9,7 +9,7 @@ Open to: Junior positions • Internships • Freelance opportunities
 
 ## About Me
 
-I'm a Junior Python developer focused on building backend services and full-stack applications.
+I'm a Junior Full-Stack developer focused on building frontend, backend services and full-stack applications.
 
 What I do:
 - Build REST APIs with FastAPI
